@@ -39,5 +39,5 @@ gem 'puma'
 # gem 'debugger', group: [:development, :test]
 
 source 'https://repo.fury.io/larskanis' do
-  gem 'tiny_tds', '0.6.3.rc1.lars2'
+  gem 'tiny_tds', '0.6.3.rc1.lars3'
 end
